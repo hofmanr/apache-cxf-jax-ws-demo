@@ -76,6 +76,9 @@
                                 <wsdlOption>
                                     <wsdl>${basedir}/src/main/resources/wsdl/Orders.wsdl</wsdl>
                                 </wsdlOption>
+                                <wsdlOption>
+                                    <wsdl>${basedir}/src/main/resources/wsdl/Books.wsdl</wsdl>
+                                </wsdlOption>
                             </wsdlOptions>
                         </configuration>
                         <goals>
